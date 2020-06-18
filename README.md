@@ -2,7 +2,7 @@
 
 * Projeto desenvolvido em Java para cadastrar veículos, com o objetivo de se estabelecer um controle de automóveis.
 
-* Feita com JDBC.
+* Feito com JDBC.
 
 * Realiza o cadastro das informações: 
      - Modelo
