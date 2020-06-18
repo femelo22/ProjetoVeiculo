@@ -1,6 +1,6 @@
 # ProjetoVeiculo
 
-* Projeto simples desenvolvido em Java para cadastrar veículos.
+* Projeto desenvolvido em Java para cadastrar veículos, com o objetivo de se estabelecer um controle de automóveis.
 
 * Feita com JDBC.
 
